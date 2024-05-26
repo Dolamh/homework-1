@@ -1,0 +1,20 @@
+Python code runs line by line as you write it.,TRUE
+You need curly braces ({}) for code blocks in Python.,FALSE
+You can directly add numbers to strings in Python.,FALSE
+Python offers ways to add comments to your code.,TRUE
+"Python lists can hold various data types, even other lists.",TRUE
+You can't change the order of items in a Python list.,FALSE
+You can access elements in a Python list using their position (starting from 0).,TRUE
+The if statement lets you execute code based on a condition.,TRUE
+A function in Python is a reusable block of code you can call.,TRUE
+You need separate Python programs to share code with modules.,FALSE
+Python requires you to declare the data type of a variable beforehand.,FALSE
+Python is not suitable for creating games.,FALSE
+Objects in Python can have properties (data) and methods (actions).,TRUE
+Errors (mistakes) will always crash your Python program.,FALSE
+There's no way to handle errors and keep your Python program running.,FALSE
+Python is an interpreted language.,TRUE
+Python requires semicolons at the end of statements.,FALSE
+Lists are mutable (can be changed) in Python.,TRUE
+Tuples are ordered collections that can hold different data types.,TRUE
+Python is a powerful and versatile language for various applications.,TRUE
